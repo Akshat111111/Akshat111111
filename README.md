@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning ** perl**
+- 🌱 I’m currently learning ** Bootstrap**
 
 - 👯 I’m looking to collaborate on **Fintech projects**
 
