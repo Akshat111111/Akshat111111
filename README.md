@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
-<h3 align="center">A passionate frontend developer and web designer from India</h3>
+<h3 align="center">An OPEN SOURCE CONTRIBUTOR from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat111111&label=Profile%20views&color=0e75b6&style=flat" alt="akshat111111" /> </p>
 
