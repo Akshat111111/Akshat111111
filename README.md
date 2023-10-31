@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat111111" alt="akshat111111" /></a> </p>
 
-- 🔭 I’m currently working WEB DEVELOPMENT**
+- 🔭 I’m currently working in Research Project**
 
-- 🌱 I’m currently learning ** Bootstrap**
+- 🌱 I’m currently learning more about  ** Deep Learning **
 
 - 👯 I’m looking to collaborate on **Fintech projects**
 
