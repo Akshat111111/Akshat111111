@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat111111" alt="akshat111111" /></a> </p>
 
-- 🔭 I’m currently working in a Research Project**
+- 🔭 I’m currently working in a **Research Project**
 
 - 🌱 I’m currently learning more about  **Advanced AI in Finance**
 
