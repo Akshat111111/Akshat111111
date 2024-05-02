@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in a Research Project**
 
-- 🌱 I’m currently learning more about  ** Advanced AI in Finance **
+- 🌱 I’m currently learning more about  **Advanced AI in Finance**
 
 - 👯 I’m looking to collaborate on **Fintech projects**
 
