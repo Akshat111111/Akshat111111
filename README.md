@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Fintech projects**
 
-- 💬 Ask me about **Data structure,Object oriented Programming,Cybersecurity**
+- 💬 Ask me about **Financial Technology,Data Structure,Object Oriented Programming,Cybersecurity**
 
 - 📫 How to reach me **akshat.sharma.pandri@gmail.com**
 
