@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working in a **Research Project**
 
-- 🌱 I’m currently learning more about  **Advanced AI in Finance**
+- 🌱 I’m currently learning more about  **Advanced AI**
 
-- 👯 I’m looking to collaborate on **Fintech projects**
+- 👯 I’m looking to collaborate on **Real World Projects**
 
-- 💬 Ask me about **Financial Technology,Data Structure,Object Oriented Programming,Cybersecurity**
+- 💬 Ask me about **Web Development,Machine Learning,Deep Learning,Cybersecurity**
 
 - 📫 How to reach me **akshat.sharma.pandri@gmail.com**
 
