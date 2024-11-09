@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development,Machine Learning,Deep Learning,Cybersecurity**
 
-- 📫 How to reach me **akshat.sharma.pandri@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/akshat-sharma11/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
