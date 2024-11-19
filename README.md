@@ -1,30 +1,111 @@
-<h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
-<h3 align="center">An OPEN SOURCE CONTRIBUTOR from India</h3>
+# 👋 Hi, I'm Akshat Sharma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat111111&label=Profile%20views&color=0e75b6&style=flat" alt="akshat111111" /> </p> 
+[![Profile Views](https://komarev.com/ghpvc/?username=akshat111111&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/akshat111111)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat111111" alt="akshat111111" /></a> </p>
+## 🌟 Open Source Contributor | Tech Enthusiast | Researcher | Mentor
 
-- 🔭 I’m currently working in a **Research Project**
+Welcome to my GitHub! I'm a passionate tech enthusiast from **India**, with a strong foundation in **programming**, **machine learning**, **cybersecurity**, and **financial technology (FinTech)**. I've been actively contributing to **open-source** projects, conducting research, and mentoring upcoming talent.
 
-- 🌱 I’m currently learning more about  **Advanced AI**
+---
 
-- 👯 I’m looking to collaborate on **Real World Projects**
+### 📊 **GitHub Stats**
 
-- 💬 Ask me about **Web Development,Machine Learning,Deep Learning,Cybersecurity**
+![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshat111111&show_icons=true&theme=radical)
 
-- 📫 How to reach me **https://www.linkedin.com/in/akshat-sharma11/**
+### 🏆 **GitHub Profile Trophy**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=https://www.linkedin.com/in/akshat-sharma-638b16219/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat sharma" height="30" width="40" /></a>
-</p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=akshat111111&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📈 **Contribution Streak**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat111111&show_icons=true&locale=en&layout=compact" alt="akshat111111" /></p>
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=akshat111111&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat111111&show_icons=true&locale=en" alt="akshat111111" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat111111&" alt="akshat111111" /></p>
+### 🔥 **Key Achievements**
+
+- 🎤 **International Conferences Speaker:**
+    - **International Conference on Computer, Communication, Control & Information Technology (C3IT'24)**
+    - **International Conference on Electrical, Electronics and Computing Technologies**
+    - **RACCAI 2023 (Recent Advancement in Communication,Computing and Artificial intelligence)** 
+    - **ICNSBT 2024 (Third International Conference on Network Security & Blockchain Technology)**
+    - **Interledger Summit 2024**
+
+- 🏆 **Google Summer of Code 2024**:
+    - Selected as one of **1,220 contributors** out of **43,984 applicants** from **172 countries**.
+    - Contributed to [**Bank Statement Analysis**].
+
+- 📚 **Research Projects**:
+    - **University of California (2024)** – AI-driven solutions for **real-world healthcare challenges**.
+    - **IIT Indore (2023)** – Focused on **Artificial Intelligence** and **Machine Learning**.
+
+- 🎓 **Recognitions**:
+    - Honored by **NGOs** and **cabinet officials** in my state for **academic and technical achievements**.
+    - Met with **Pranjal Kamra**, India's leading financial analyst, for discussions on **tech-finance convergence**.
+---
+
+### 💻 **Skills & Expertise**
+
+- **Programming Languages:**
+    - Python, C++, Java, JavaScript, Bash, Shell, HTML/CSS
+- **Machine Learning & AI:**
+    - Deep Learning, NLP, Reinforcement Learning, Computer Vision, AI Systems Design
+- **Cybersecurity:**
+    - Cryptography, Penetration Testing,Software Verification,Validation and Testing,System and Network Security
+- **Financial Technology (FinTech):**
+    - Blockchain, Cryptocurrency, Smart Contracts, Decentralized Finance (DeFi)
+- **Research & Development:**
+    - AI/ML-based Systems, Data Structures, Algorithms, Distributed Systems
+
+---
+
+### 🛠 **Technologies & Tools**
+
+- **AI & ML Frameworks:**
+    - TensorFlow, PyTorch, Keras, scikit-learn, OpenCV
+- **Cybersecurity Tools:**
+    - Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap
+- **Cloud Platforms:**
+    - AWS, Google Cloud, Microsoft Azure
+- **Version Control:**
+    - Git, GitHub, GitLab
+- **Databases:**
+    - MySQL, MongoDB, Oracle DB
+
+---
+
+
+### 🧑‍🏫 **Mentorship Impact**:
+I have had the privilege of mentoring over **1500 students** across multiple open-source programs. Some of the major programs I’ve mentored include:
+
+- **Girlscript Summer of Code 2024**
+- **Winter of Code 2024**
+- **Winter of Blockchain 2024**
+- **Kharagpur Winter of Code 2024**
+- **Vinyasa Summer of Code 2024**
+
+---
+
+### 💡 **Fun Fact:**
+I met **Pranjal Kamra**, India's leading financial analyst, and had an insightful discussion about the intersection of **tech** and **finance**.
+
+---
+
+
+### 🌍 **Let's Connect!**
+
+- **LinkedIn**: [linkedin.com/in/akshat-sharma](https://www.linkedin.com/in/akshat-sharma11/)
+- **Medium**: [medium.com/@Akshat111111](https://medium.com/@Akshat111111)
+- **GitHub**: [github.com/Akshat111111](https://github.com/Akshat111111)
+
+---
+
+
+### 🧑‍💻 **About Me**
+I am a strong believer in the power of open-source software and its ability to drive innovation and change in the tech world. I strive to make meaningful contributions to both the **community** and the **industry**.
+
+---
+
+**Let's build something amazing together!** 🌍🚀
+
+---
