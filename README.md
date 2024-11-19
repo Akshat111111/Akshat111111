@@ -48,6 +48,8 @@ Welcome to my GitHub! I'm a passionate tech enthusiast from **India**, with a st
 
 - **Programming Languages:**
     - Python, C++, Java, JavaScript, Bash, Shell, HTML/CSS
+- **Full Stack Web Development:**  
+   - React.js, Next.js, PHP, Flask, Streamlit
 - **Machine Learning & AI:**
     - Deep Learning, NLP, Reinforcement Learning, Computer Vision, AI Systems Design
 - **Cybersecurity:**
